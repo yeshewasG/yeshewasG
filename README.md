@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeshewasG
 - 👀 I’m interested in web devlopmnt,ui ux,and graphics design
 - 🌱 I’m currently learning react,python
-- 💞️ I’m looking to collaborate on ethcinema.com
+- 💞️ I’m looking to collaborate on machine learing,Data scinece
 - 📫 How to reach me yeshewasg12@gmail.com
 
 <!---
